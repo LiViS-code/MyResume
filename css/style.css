@@ -1,5 +1,5 @@
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   background-color: #e5e5e5;
 }
 
@@ -7,7 +7,7 @@ body {
   display: flex;
   flex-direction: row-reverse;
   width: 1000px;
-  background-color: rgb(221, 216, 203);
+  background-color: whitesmoke;
   margin: 40px auto;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.3);
 }
@@ -213,4 +213,11 @@ body {
   line-height: 24px;
   color: rgb(200, 200, 200);
   width: 100px;
+}
+
+/* undercostruction */
+
+.undercostruction {
+  margin: 10%;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.3);
 }
